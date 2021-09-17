@@ -17,7 +17,7 @@ Filter the table with the Date "1/11/2010"
 Filter the table with the Date "1/11/2010" and the Shape "triangle"
 <img src="https://github.com/BessHung/UFOs/blob/b3585e3b16af4824efe3818b5404b8417fae6b0a/static/images/Figure3.png" width="75%" height="75%">
 
-###### Input Date = "1/11/2010", Shape = "triangle" & Country = "us"
+###### Input Date = "1/11/2010" & Shape = "triangle" & Country = "us"
 Filter the table with the Date "1/11/2010", Shape "triangle" and Country ""
 <img src="https://github.com/BessHung/UFOs/blob/b3585e3b16af4824efe3818b5404b8417fae6b0a/static/images/Figure4.png" width="75%" height="75%">
 
